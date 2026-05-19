@@ -60,7 +60,7 @@ ul li a:hover{
     margin-left: 270px;
 }
 .srch{
-    font-family: 'Times New Roman';
+    font-family: 'Courier New', Courier, monospace;
     width: 200px;
     height: 20px;
     background: transparent;
@@ -113,7 +113,7 @@ ul li a:hover{
 }
 
 .content h1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman';    
     font-size: 50px;
     padding-left: 20px;
     margin-top: 9px;
@@ -121,7 +121,7 @@ ul li a:hover{
     
 }
 .content .cn{
-    width: 160px;
+    width: 165px;
     height: 40px;
     background: orange;
     margin-bottom: 10px;
