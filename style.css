@@ -55,12 +55,12 @@ ul li a:hover{
     color: orange;
 }
 .search{
-    width: 320px;
+    width: 330px;
     float: left;
     margin-left: 270px;
 }
 .srch{
-    font-family: Arial;
+    font-family: 'Times New Roman';
     width: 200px;
     height: 20px;
     background: transparent;
@@ -121,7 +121,7 @@ ul li a:hover{
     
 }
 .content .cn{
-    width: 165px;
+    width: 160px;
     height: 40px;
     background: orange;
     margin-bottom: 10px;
